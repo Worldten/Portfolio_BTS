@@ -14775,7 +14775,6 @@ small,
   font-family: "Roboto Slab", "Times New Roman", serif;
 }
 
-.title,
 .title a,
 .card-title,
 .card-title a,
@@ -14789,7 +14788,7 @@ small,
 .footer-big h4 a,
 .media .media-heading,
 .media .media-heading a {
-  color: #3C4858;
+  color: rgb(22, 102, 206);
   text-decoration: none;
 }
 
